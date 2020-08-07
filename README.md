@@ -3,7 +3,7 @@ Eyass_Security_Camera_App-Get_Camera_Feed is the backend of the project with all
 Eyass_Security_Camera_App-master is the front end of the android app project that deals with the gui and functionality of the buttons, hamburger menu, login, etc.
 
 
-![Image of Eyass] (https://github.com/xerox777/EYASS-SECURITY-ANDROID-APP/tree/master/github_eyass_pics/eyass_app.PNG)
+![Image of Eyass](https://github.com/xerox777/EYASS-SECURITY-ANDROID-APP/blob/master/github_eyass_pics/eyass_app.PNG)
 
 
-![Image of Eyass-Feed] (https://github.com/xerox777/EYASS-SECURITY-ANDROID-APP/tree/master/github_eyass_pics/feed.PNG)
+![Image of Eyass-Feed](https://github.com/xerox777/EYASS-SECURITY-ANDROID-APP/blob/master/github_eyass_pics/feed.PNG)

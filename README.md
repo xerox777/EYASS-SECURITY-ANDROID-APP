@@ -5,5 +5,6 @@ Eyass_Security_Camera_App-master is the front end of the android app project tha
 
 ![Image of Eyass](https://github.com/xerox777/EYASS-SECURITY-ANDROID-APP/blob/master/github_eyass_pics/eyass_app.PNG)
 
+![Eyass-Empty-Feed](https://github.com/xerox777/EYASS-SECURITY-ANDROID-APP/blob/master/github_eyass_pics/feed_empty.PNG)
 
 ![Image of Eyass-Feed](https://github.com/xerox777/EYASS-SECURITY-ANDROID-APP/blob/master/github_eyass_pics/feed.PNG)
